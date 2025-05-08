@@ -1,0 +1,322 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "xxx24",
+            "request": "launch",
+            "mainClass": "xxx24",
+            "projectName": "Stacks_aa3982b4"
+        },
+        {
+            "type": "java",
+            "name": "xxx9",
+            "request": "launch",
+            "mainClass": "xxx9",
+            "projectName": "Stacks_aa3982b4"
+        },
+        {
+            "type": "java",
+            "name": "solution",
+            "request": "launch",
+            "mainClass": "solution",
+            "projectName": "Stacks_aa3982b4"
+        },
+        {
+            "type": "java",
+            "name": "xxx22",
+            "request": "launch",
+            "mainClass": "xxx22",
+            "projectName": "Stacks_aa3982b4"
+        },
+        {
+            "type": "java",
+            "name": "xxx23",
+            "request": "launch",
+            "mainClass": "xxx23",
+            "projectName": "Stacks_aa3982b4"
+        },
+        {
+            "type": "java",
+            "name": "xxx20",
+            "request": "launch",
+            "mainClass": "xxx20",
+            "projectName": "Stacks_aa3982b4"
+        },
+        {
+            "type": "java",
+            "name": "xxx21",
+            "request": "launch",
+            "mainClass": "xxx21",
+            "projectName": "Stacks_aa3982b4"
+        },
+        {
+            "type": "java",
+            "name": "xxx19",
+            "request": "launch",
+            "mainClass": "xxx19",
+            "projectName": "Stacks_aa3982b4"
+        },
+        {
+            "type": "java",
+            "name": "xxx11",
+            "request": "launch",
+            "mainClass": "xxx11",
+            "projectName": "Stacks_aa3982b4"
+        },
+        {
+            "type": "java",
+            "name": "xxx5",
+            "request": "launch",
+            "mainClass": "xxx5",
+            "projectName": "Stacks_aa3982b4"
+        },
+        {
+            "type": "java",
+            "name": "xxx4",
+            "request": "launch",
+            "mainClass": "xxx4",
+            "projectName": "Stacks_aa3982b4"
+        },
+        {
+            "type": "java",
+            "name": "xxx3",
+            "request": "launch",
+            "mainClass": "xxx3",
+            "projectName": "Stacks_aa3982b4"
+        },
+        {
+            "type": "java",
+            "name": "xxx",
+            "request": "launch",
+            "mainClass": "xxx",
+            "projectName": "Stacks_aa3982b4"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "xxx",
+            "request": "launch",
+            "mainClass": "xxx",
+            "projectName": "Stacks_6be39b0"
+        },
+        {
+            "type": "java",
+            "name": "xxx1",
+            "request": "launch",
+            "mainClass": "xxx1",
+            "projectName": "Stacks_6be39b0"
+        },
+        {
+            "type": "java",
+            "name": "xxx10",
+            "request": "launch",
+            "mainClass": "xxx10",
+            "projectName": "Stacks_6be39b0"
+        },
+        {
+            "type": "java",
+            "name": "xxx11",
+            "request": "launch",
+            "mainClass": "xxx11",
+            "projectName": "Stacks_6be39b0"
+        },
+        {
+            "type": "java",
+            "name": "xxx12",
+            "request": "launch",
+            "mainClass": "xxx12",
+            "projectName": "Stacks_6be39b0"
+        },
+        {
+            "type": "java",
+            "name": "xxx13",
+            "request": "launch",
+            "mainClass": "xxx13",
+            "projectName": "Stacks_6be39b0"
+        },
+        {
+            "type": "java",
+            "name": "xxx14",
+            "request": "launch",
+            "mainClass": "xxx14",
+            "projectName": "Stacks_6be39b0"
+        },
+        {
+            "type": "java",
+            "name": "xxx15",
+            "request": "launch",
+            "mainClass": "xxx15",
+            "projectName": "Stacks_6be39b0"
+        },
+        {
+            "type": "java",
+            "name": "xxx16",
+            "request": "launch",
+            "mainClass": "xxx16",
+            "projectName": "Stacks_6be39b0"
+        },
+        {
+            "type": "java",
+            "name": "xxx17",
+            "request": "launch",
+            "mainClass": "xxx17",
+            "projectName": "Stacks_6be39b0"
+        },
+        {
+            "type": "java",
+            "name": "xxx18",
+            "request": "launch",
+            "mainClass": "xxx18",
+            "projectName": "Stacks_6be39b0"
+        },
+        {
+            "type": "java",
+            "name": "xxx19",
+            "request": "launch",
+            "mainClass": "xxx19",
+            "projectName": "Stacks_6be39b0"
+        },
+        {
+            "type": "java",
+            "name": "xxx2",
+            "request": "launch",
+            "mainClass": "xxx2",
+            "projectName": "Stacks_6be39b0"
+        },
+        {
+            "type": "java",
+            "name": "xxx20",
+            "request": "launch",
+            "mainClass": "xxx20",
+            "projectName": "Stacks_6be39b0"
+        },
+        {
+            "type": "java",
+            "name": "xxx21",
+            "request": "launch",
+            "mainClass": "xxx21",
+            "projectName": "Stacks_6be39b0"
+        },
+        {
+            "type": "java",
+            "name": "xxx22",
+            "request": "launch",
+            "mainClass": "xxx22",
+            "projectName": "Stacks_6be39b0"
+        },
+        {
+            "type": "java",
+            "name": "xxx23",
+            "request": "launch",
+            "mainClass": "xxx23",
+            "projectName": "Stacks_6be39b0"
+        },
+        {
+            "type": "java",
+            "name": "xxx24",
+            "request": "launch",
+            "mainClass": "xxx24",
+            "projectName": "Stacks_6be39b0"
+        },
+        {
+            "type": "java",
+            "name": "xxx25",
+            "request": "launch",
+            "mainClass": "xxx25",
+            "projectName": "Stacks_6be39b0"
+        },
+        {
+            "type": "java",
+            "name": "xxx26",
+            "request": "launch",
+            "mainClass": "xxx26",
+            "projectName": "Stacks_6be39b0"
+        },
+        {
+            "type": "java",
+            "name": "xxx27",
+            "request": "launch",
+            "mainClass": "xxx27",
+            "projectName": "Stacks_6be39b0"
+        },
+        {
+            "type": "java",
+            "name": "xxx28",
+            "request": "launch",
+            "mainClass": "xxx28",
+            "projectName": "Stacks_6be39b0"
+        },
+        {
+            "type": "java",
+            "name": "xxx3",
+            "request": "launch",
+            "mainClass": "xxx3",
+            "projectName": "Stacks_6be39b0"
+        },
+        {
+            "type": "java",
+            "name": "xxx30",
+            "request": "launch",
+            "mainClass": "xxx30",
+            "projectName": "Stacks_6be39b0"
+        },
+        {
+            "type": "java",
+            "name": "xxx31",
+            "request": "launch",
+            "mainClass": "xxx31",
+            "projectName": "Stacks_6be39b0"
+        },
+        {
+            "type": "java",
+            "name": "xxx4",
+            "request": "launch",
+            "mainClass": "xxx4",
+            "projectName": "Stacks_6be39b0"
+        },
+        {
+            "type": "java",
+            "name": "xxx5",
+            "request": "launch",
+            "mainClass": "xxx5",
+            "projectName": "Stacks_6be39b0"
+        },
+        {
+            "type": "java",
+            "name": "xxx6",
+            "request": "launch",
+            "mainClass": "xxx6",
+            "projectName": "Stacks_6be39b0"
+        },
+        {
+            "type": "java",
+            "name": "xxx7",
+            "request": "launch",
+            "mainClass": "xxx7",
+            "projectName": "Stacks_6be39b0"
+        },
+        {
+            "type": "java",
+            "name": "xxx8",
+            "request": "launch",
+            "mainClass": "xxx8",
+            "projectName": "Stacks_6be39b0"
+        },
+        {
+            "type": "java",
+            "name": "xxx9",
+            "request": "launch",
+            "mainClass": "xxx9",
+            "projectName": "Stacks_6be39b0"
+        }
+    ]
+}
