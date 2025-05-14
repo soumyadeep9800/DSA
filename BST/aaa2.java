@@ -1,4 +1,4 @@
-
+//delete Node in BST
 public class aaa2{
     public static class Node{
         int data;
