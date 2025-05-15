@@ -42,7 +42,9 @@ public class aaa1 {
         a.right=d;
         b.left=e;
         b.right=f;
-        int val=15;
+        int val=1;
+        preOrder(root);
+        System.out.println();
         Node finalRootNode=insertInBST(root, val);
         preOrder(finalRootNode);
     }

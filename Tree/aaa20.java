@@ -35,7 +35,7 @@ public class aaa20 {
         Node f=new Node(5);
         root.left=a;
         root.right=b;
-        a.left=c; 
+        a.left=c;
         a.right=d;
         b.left=e;
         b.right=f;
