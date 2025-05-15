@@ -14,11 +14,11 @@ public class aaa1 {
         Node node=new Node(val);
         if(root.data>val){
             if(root.left==null) root.left=node;
-            else insertInBST(root.left, val);
+            else root.left=insertInBST(root.left, val);
         }
         else{
             if(root.right==null) root.right=node;
-            else insertInBST(root.right, val);
+            else root.right=insertInBST(root.right, val);
         }
         return root;
     }
