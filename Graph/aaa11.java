@@ -29,7 +29,9 @@ public class aaa11 {
     }
 
     for (int i = 0; i < V - 1; i++) {
-        for (Edge e : edges) {
+        // for (Edge e : edges) {
+        for(int j=0;j<edges.size();j++){
+            Edge e =edges.get(j);
             int u=e.src;
             int v=e.dest;
             if (dist[u] != Integer.MAX_VALUE && dist[u] + e.wt < dist[v]) {
