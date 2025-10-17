@@ -24,10 +24,9 @@ public class aaa12 {
         int minutes = 0;
         // Step 2: BFS traversal (minute by minute)
         while (!queue.isEmpty()) {
-            int size = queue.size();
             boolean rottenThisMinute = false;
 
-            for (int i = 0; i < size; i++) {
+            for (int i = 0; i < queue.size(); i++) {
                 int[] pos = queue.poll();
                 int r = pos[0];
                 int c = pos[1];
