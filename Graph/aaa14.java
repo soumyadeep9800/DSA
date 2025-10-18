@@ -3,7 +3,8 @@
 import java.util.ArrayList;
 import java.util.Stack;
 
-public class aaa14 {static class Edge{
+public class aaa14 {
+    static class Edge{
         int src;
         int dest;
 
